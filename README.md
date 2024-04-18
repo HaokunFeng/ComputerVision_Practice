@@ -1,4 +1,4 @@
-# Computer Vision Practice
+# ComputerVision_Practice
 
 In this repository, you will find instructions on how to build your own image processing/computer vision library from (mostly) scratch. The work is divided out into different sections, found in the `src/` directory.
 
